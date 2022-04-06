@@ -1,9 +1,12 @@
+
 ---
 
-DATA_DIR = pathlib.Path('dataset/data')
+DATA_DIR: 'dataset/data'
 
-IMAGE_WIDTH = 128
-IMAGE_HEIGHT = IMAGE_WIDTH
-IMAGE_DEPTH = 3
+IMAGE_WIDTH: 128
 
-MODEL_DIR = Pathlib.Path('dataset/model')
+IMAGE_HEIGHT: 128
+
+IMAGE_DEPTH: 3
+
+MODELS_DIR: 'model/planes_class.m5'
