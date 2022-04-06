@@ -1,5 +1,9 @@
+---
+
 DATA_DIR = pathlib.Path('dataset/data')
 
 IMAGE_WIDTH = 128
 IMAGE_HEIGHT = IMAGE_WIDTH
 IMAGE_DEPTH = 3
+
+MODEL_DIR = Pathlib.Path('dataset/model')
