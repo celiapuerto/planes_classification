@@ -1,12 +1,10 @@
-
 ---
 
-DATA_DIR: 'dataset/data'
+image:
+  height: 128
+  width: 128
+  depth: 3
 
-IMAGE_WIDTH: 128
-
-IMAGE_HEIGHT: 128
-
-IMAGE_DEPTH: 3
-
-MODELS_DIR: 'model/planes_class.m5'
+dir:
+  model: 'drive/MyDrive/Mignot/model'
+  data: 'dataset/data
