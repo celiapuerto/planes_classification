@@ -1,0 +1,13 @@
+image:
+  height: 128
+  width: 128
+  depth: 3
+
+dir:
+  model: 'content/model'
+  data: 
+    train: 'dataset/data/images_manufacturer_train.txt'
+    test: 'dataset/data/images_manufacturer_test.txt'
+    
+
+target_name: 'manufacturer'
