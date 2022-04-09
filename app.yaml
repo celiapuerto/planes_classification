@@ -1,0 +1,10 @@
+---
+
+image:
+  height: 128
+  width: 128
+  depth: 3
+
+dir:
+  model: 'app/model/planes.h5'
+  data: 'dataset/data'
